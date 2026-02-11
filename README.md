@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Design
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
