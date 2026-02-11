@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
