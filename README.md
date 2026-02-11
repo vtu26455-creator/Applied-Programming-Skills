@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Design
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
@@ -100,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
