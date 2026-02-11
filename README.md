@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -127,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
