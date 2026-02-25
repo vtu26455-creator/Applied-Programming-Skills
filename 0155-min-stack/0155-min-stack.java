@@ -9,26 +9,29 @@ class MinStack {
         stack = new Stack<>();
         minStack = new Stack<>();
     }
-    
+
     public void push(int val) {
         stack.push(val);
-        
-        if (minStack.isEmpty()) {
+
+        // Push to minStack if it is empty OR val <= current min
+        if (minStack.isEmpty() || val <= minStack.peek()) {
             minStack.push(val);
-        } else {
-            minStack.push(Math.min(val, minStack.peek()));
         }
     }
-    
+
     public void pop() {
-        stack.pop();
-        minStack.pop();
+        int removed = stack.pop();
+
+        // Remove from minStack if needed
+        if (removed == minStack.peek()) {
+            minStack.pop();
+        }
     }
-    
+
     public int top() {
         return stack.peek();
     }
-    
+
     public int getMin() {
         return minStack.peek();
     }
