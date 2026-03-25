@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [0704-binary-search](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
