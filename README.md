@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Array
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
