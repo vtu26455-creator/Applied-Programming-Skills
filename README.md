@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu26455-creator/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
